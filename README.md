@@ -1,1 +1,1 @@
-# orocoin-contract
+# oro-contract
